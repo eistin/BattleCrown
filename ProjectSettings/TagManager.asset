@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Crown
+  - Water
+  - Ground
+  - Wall
+  - Item
+  - Sword
+  - King
+  - Box
+  - Border
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Ground
+  - Wall
+  - King
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2923206275
+    locked: 0
+  - name: Foreground
+    uniqueID: 251048655
+    locked: 0
+  - name: Water
+    uniqueID: 3001953907
+    locked: 0
+  - name: Effect
+    uniqueID: 1834466857
+    locked: 0
